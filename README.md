@@ -1,2 +1,10 @@
 #  Inventory Management System
- C++ inventory management system with Vector-based product storage, CRUD operations, and invoice generation with Persian UI
+- Data Structure: Vector (for storing products)
+- Description: Warehouse management and invoicing system
+- Features:
+  - Product management using Vector
+  - CRUD operations on products
+  - Invoicing system and inventory deduction
+  - Low stock reporting
+  - Data storage and retrieval in text files
+  - Persian console user interface
